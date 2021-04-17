@@ -4,7 +4,7 @@ Lovegram é uma replica da página de login do instagram usando flexbox do html 
 
 
 
-![](C:\Users\fernando\Desktop\Instagram\Lovegram\img\modelo-final.png)
+![](https://github.com/FernandoSena/lovegram/blob/main/img/modelo-final.png)
 
 
 
