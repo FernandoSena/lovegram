@@ -9,9 +9,9 @@ Lovegram é uma replica da página de login do instagram usando flexbox do html 
 ---
 
 <a href="https://www.linkedin.com/in/fernando-s-35219b122">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29146636?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29146636?v=4" align="justify" width="100px;" alt=""/>
 
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://www.linkedin.com/in/fernando-s-35219b122" title="Rocketseat"></a>
+ <sub align="justify"><b>Fernando Sena</b></sub></a> <a href="https://www.linkedin.com/in/fernando-s-35219b122" title="Rocketseat"></a>
 
 Feito com ❤️ por Fernando Sena 👋🏽 Entre em contato!
 
