@@ -1,15 +1,20 @@
 # Lovegram
 
+### Autor
+
+---
+
 ```
 ### Autor
 ---
 
-<a href="https://www.linkedin.com/in/tgmarinho/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29146636?s=400&u=8ac8ab18ce0654768946b1d692cac0a870cc4c7b&v=4" width="100px;" alt=""/>
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Fernando Sena</b></sub></a> <a href="http://softhubo.com.br/" title="Softhubo">🚀</a>
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+```
 
-
+```
 Feito com ❤️ por Fernando Sena 👋🏽 Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FernandoSena)](https://github.com/FernandoSena)
